@@ -1,3 +1,4 @@
+ChatGPT带KEY，可随时改密账号，亲测可用 [点击获取](https://dwz.cn/RxMxlcaq)
 # ChatGPT <img src="https://github.com/acheong08/ChatGPT/blob/main/logo.png?raw=true" width="7%"></img>
 
 [![PyPi](https://img.shields.io/pypi/v/revChatGPT.svg)](https://pypi.python.org/pypi/revChatGPT)
